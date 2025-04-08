@@ -32,7 +32,7 @@ Note :
 The des.key file stores the DES (Data Encryption Standard) secret key used for encryption and decryption in the DES Code module of the Endecode application.
 It's a base64-encoded binary file containing the DES secret key.It's generated automatically the first time you run DES encryption and loaded whenever DES decryption is requested.
 Don’t delete des.key unless you’re into irreversible loss.
-For Morse decoding, ensure your code has proper spacing (. .-.. .-.. --- not .ELLO).
+For Morse decoding, ensure your code has proper spacing 
 
 
   You're xml file should include the following dependencies :
